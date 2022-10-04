@@ -1,7 +1,7 @@
 # Path Searching Visualiser
 
 ## Tools
-React.js, Redux.js, Bootstrap
+React.js, Redux.js, <b>Bootstrap</b>
 
 This project built to help visualize how various path searching algorithms try to find the shortest path from the start node to the target node in the graph
 
